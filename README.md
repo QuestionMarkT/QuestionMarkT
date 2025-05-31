@@ -67,9 +67,9 @@ very other skills:
 | finished | tech | course title | platform | remarks |
 |:---:|:---:|:---:|:---:|:---:|
 |questioning|<img src="icons/Blazor.png" alt="Blazor" align="center"/>|ASP.NET Core 6 Blazor Fundamentals|<img src="icons/Psight.png" align="center"/> [Pluralsight](https://www.pluralsight.com/courses/asp-dot-net-core-6-blazor-fundamentals)||
-|planned|<img src="icons/dotNet.png" alt=".NET" align="center"/>|Debugging and Error Handling in ASP.NET Core Web API|<img src="icons/Psight.png" align="center"/> [Pluralsight](https://www.pluralsight.com/courses/asp-dot-net-core-6-web-api-debugging-error-handling)||
 |planned|<img src="icons/dotNet.png" alt=".NET" align="center"/>|Dependency Injection in .NET 8 and ASP.NET Core|<img src="icons/Udemy.png" align="center"/> [Udemy](https://www.udemy.com/course/dependency-injection-in-net-core-2-and-aspnet-core-2/)||
-|in progress|<img src="icons/dotNet.png" alt=".NET" align="center"/>|ASP.NET Core Web API Fundamentals|<img src="icons/Psight.png" align="center"/> [Pluralsight](https://www.pluralsight.com/courses/asp-dot-net-core-6-web-api-fundamentals)||
+|in progress|<img src="icons/dotNet.png" alt=".NET" align="center"/>|Debugging and Error Handling in ASP.NET Core Web API|<img src="icons/Psight.png" align="center"/> [Pluralsight](https://www.pluralsight.com/courses/asp-dot-net-core-6-web-api-debugging-error-handling)||
+|2025-05-31|<img src="icons/dotNet.png" alt=".NET" align="center"/>|ASP.NET Core Web API Fundamentals|<img src="icons/Psight.png" align="center"/> [Pluralsight](https://www.pluralsight.com/courses/asp-dot-net-core-6-web-api-fundamentals)||
 |2025-03-28|<img src="icons/dotNet.png" alt=".NET" align="center"/>|From Zero to Hero: REST APIs in .NET|<img src="icons/Dometrain.png" align="center"/> [Dometrain](https://dometrain.com/course/from-zero-to-hero-rest-apis-in-asp-net-core/)|didn't finish|
 |2025-02-25|<img src="icons/C_2023.png" alt="C#" align="center"/>|Advanced Topics in C#|<img src="icons/Udemy.png" align="center"/> [Udemy](https://www.udemy.com/course/advanced-topics-csharp/)|retaken|
 |2025-02-16|<img src="icons/C_2023.png" alt="C#" align="center"/>|Asynchronous Programming in C#|<img src="icons/Psight.png" align="center"/> [Pluralsight](https://www.pluralsight.com/courses/c-sharp-10-asynchronous-programming)||
