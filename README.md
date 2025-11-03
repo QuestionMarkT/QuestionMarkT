@@ -28,35 +28,21 @@ Back in 2017 when I was in high school I was taught basics of C++ and that was m
 🟩🟨⬛⬛ Visual Studio  
 <br/>
 <details>
-<summary>🧑🏻‍💻 Click here to see my other skills</summary>
+<summary>🧑🏻‍💻 See my other skills</summary>
 
-🟩🟨⬛⬛ .NET  
-🟩🟨⬛⬛ Windows Forms  
-🟩⬛⬛⬛ Windows Presentation Foundation  
-🟩🟨⬛⬛ Unity 3D  
-🟩🟨🟧⬛ Windows  
-🟩⬛⬛⬛ VMware vSphere  
-🟩⬛⬛⬛ Nutanix Prism  
-🟩⬛⬛⬛ C++  
-🟩⬛⬛⬛ Ubuntu  
-🟩🟨🟧⬛ Android  
-🟩🟨⬛⬛ ServiceNow  
-🟩🟨🟧⬛ Math  
-🟩🟨⬛⬛ Notepad++  
-🟩🟨🟧⬛ Videos editing  
-🟩🟨⬛⬛ Excel  
-🟩🟨🟧⬛ Outlook  
-<br/>
-very other skills:  
-🟩🟨🟧⬛ English 🇺🇸  
-🟩🟨🟧🟥 Polish 🇵🇱  
-🟩⬛⬛⬛ German 🇩🇪  
-🟩🟨🟧⬛ Discord  
-🟩🟨⬛⬛ Rubik's Cube solving  
-🟩🟨⬛⬛ Juggling  
-🟩🟨🟧⬛ Bicycle riding  
-🟩🟨⬛⬛ Swimming  
-⬛⬛⬛⬛ Social skills  
+🟩🟨⬛⬛ .NET
+🟩🟨⬛⬛ Windows Forms
+🟩⬛⬛⬛ Windows Presentation Foundation
+🟩🟨⬛⬛ Unity 3D
+🟩🟨🟧⬛ Windows
+🟩🟨⬛⬛ VMware vSphere
+🟩🟨⬛⬛ Nutanix Prism
+🟩⬛⬛⬛ C++
+🟩⬛⬛⬛ Ubuntu
+🟩🟨🟧⬛ Android
+🟩🟨⬛⬛ ServiceNow
+🟩🟨⬛⬛ Excel
+🟩🟨🟧⬛ Outlook
 </details>
 
 ## 🎓 My learning progress  
@@ -69,6 +55,7 @@ very other skills:
 |questioning|<img src="icons/Blazor.png" alt="Blazor" align="center"/>|ASP.NET Core 6 Blazor Fundamentals|<img src="icons/Psight.png" align="center"/> [Pluralsight](https://www.pluralsight.com/courses/asp-dot-net-core-6-blazor-fundamentals)||
 |planned|<img src="icons/dotNet.png" alt=".NET" align="center"/>|Dependency Injection in .NET 8 and ASP.NET Core|<img src="icons/Udemy.png" align="center"/> [Udemy](https://www.udemy.com/course/dependency-injection-in-net-core-2-and-aspnet-core-2/)||
 |in progress|<img src="icons/dotNet.png" alt=".NET" align="center"/>|Debugging and Error Handling in ASP.NET Core Web API|<img src="icons/Psight.png" align="center"/> [Pluralsight](https://www.pluralsight.com/courses/asp-dot-net-core-6-web-api-debugging-error-handling)||
+|in progress|<img src="icons/C_2023.png" alt="C#" align="center"/>|C# Dependency Injection|<img src="icons/Psight.png" align="center"/> [Pluralsight](https://app.pluralsight.com/ilx/video-courses/cc6c4f0b-f1b2-49cb-8f0b-5def41fc8e73/4b645959-4333-436b-9749-03e3dc219a80/e42db77d-5eac-493e-a7a3-6bbeda1947c4)||
 |2025-05-31|<img src="icons/dotNet.png" alt=".NET" align="center"/>|ASP.NET Core Web API Fundamentals|<img src="icons/Psight.png" align="center"/> [Pluralsight](https://www.pluralsight.com/courses/asp-dot-net-core-6-web-api-fundamentals)||
 |2025-03-28|<img src="icons/dotNet.png" alt=".NET" align="center"/>|From Zero to Hero: REST APIs in .NET|<img src="icons/Dometrain.png" align="center"/> [Dometrain](https://dometrain.com/course/from-zero-to-hero-rest-apis-in-asp-net-core/)|didn't finish|
 |2025-02-25|<img src="icons/C_2023.png" alt="C#" align="center"/>|Advanced Topics in C#|<img src="icons/Udemy.png" align="center"/> [Udemy](https://www.udemy.com/course/advanced-topics-csharp/)|retaken|
@@ -112,7 +99,7 @@ very other skills:
 |2022-03-14|<img src="icons/Unity.png" alt="Unity" align="center"/>|Introduction to C# Programming and Unity|<img src="icons/Coursera.png" align="center"/> [Coursera](https://www.coursera.org/learn/introduction-programming-unity)||
 |2022-02-07|<img src="icons/C_2023.png" alt="C#" align="center"/>|Building a Calculator using C# in Visual Studio|<img src="icons/Coursera.png" align="center"/> [Coursera](https://www.coursera.org/projects/buildingacalculatorinvisualstudio)|removed|
 
-<sup>not very proud of the last one though</sup>
+<sup>not very proud of the last one</sup>
 
 ❗ Time is passing, it seems Coursera deletes outdated courses while Pluralsight only marks them as retired
 
