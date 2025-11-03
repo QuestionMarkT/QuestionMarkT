@@ -30,19 +30,19 @@ Back in 2017 when I was in high school I was taught basics of C++ and that was m
 <details>
 <summary>🧑🏻‍💻 See my other skills</summary>
 
-🟩🟨⬛⬛ .NET
-🟩🟨⬛⬛ Windows Forms
-🟩⬛⬛⬛ Windows Presentation Foundation
-🟩🟨⬛⬛ Unity 3D
-🟩🟨🟧⬛ Windows
-🟩🟨⬛⬛ VMware vSphere
-🟩🟨⬛⬛ Nutanix Prism
-🟩⬛⬛⬛ C++
-🟩⬛⬛⬛ Ubuntu
-🟩🟨🟧⬛ Android
-🟩🟨⬛⬛ ServiceNow
-🟩🟨⬛⬛ Excel
-🟩🟨🟧⬛ Outlook
+🟩🟨⬛⬛ .NET  
+🟩🟨⬛⬛ Windows Forms  
+🟩⬛⬛⬛ Windows Presentation Foundation  
+🟩🟨⬛⬛ Unity 3D  
+🟩🟨🟧⬛ Windows  
+🟩🟨⬛⬛ VMware vSphere  
+🟩🟨⬛⬛ Nutanix Prism  
+🟩⬛⬛⬛ C++  
+🟩⬛⬛⬛ Ubuntu  
+🟩🟨🟧⬛ Android  
+🟩🟨⬛⬛ ServiceNow  
+🟩🟨⬛⬛ Excel  
+🟩🟨🟧⬛ Outlook  
 </details>
 
 ## 🎓 My learning progress  
