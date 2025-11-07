@@ -1,8 +1,5 @@
 ## 🛂 About me  
-### Hello, I'm ? and currently I focus on ✨ **ASP.NET Core** ✨
-I've created various console programs for my own needs, a few desktop applications for Windows, between 2022-2024 I was also learning game-dev to recreate [DarkOrbit](https://en.wikipedia.org/wiki/DarkOrbit) in Unity 3D HDRP 🚀  
-I've spent my entire life on Windows so I know a lot about Windows OS family, MS-DOS, CMD, regedit.exe, etc.  
-Back in 2017 when I was in high school I was taught basics of C++ and that was my very first programming experience, later on I also grasped basics of HTML, JavaScript and PHP but at this time all these technologies scared me away :(
+### Hi, I'm ? and currently I focus on ✨ **ASP.NET Core** ✨
 
 ## 🔧 My skills
 <details>
