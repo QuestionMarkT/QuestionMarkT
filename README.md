@@ -1,6 +1,7 @@
 ## 🛂 About me  
-### Hi, I'm ? and currently I focus on ✨ **ASP.NET Core** ✨
-
+Hi, I'm ? and currently I focus on ✨ **ASP.NET Core** ✨
+## ✉️ Contact  
+DM me on Discord, you can easily find me on the [C# server](https://discord.gg/csharp) or [Microsoft Community](https://discord.gg/microsoft) and mention @10027  
 ## 🔧 My skills
 <details>
 <summary>What do these symbols mean?</summary>
@@ -102,10 +103,6 @@
 ❗ Time is passing, it seems Coursera deletes outdated courses while Pluralsight only marks them as retired
 
 </details>
-
-## ✉️ Contact  
-The best way to contact me is to DM me on Discord, you can easily find me on [the C# server](https://discord.gg/csharp) by pinging @10027  
-Alternatively, you may join [my Discord server](https://discord.gg/46KweYnegD) (a gaming one).
 
 > [!NOTE]
 > Most of my repositories are worthless, I've created them when learning from online courses, most likely you won't find anything interesting here. But feel free to discover if you want to.
