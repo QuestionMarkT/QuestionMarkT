@@ -26,7 +26,7 @@ DM me on Discord, you can easily find me on the [C# server](https://discord.gg/c
 🟩🟨⬛⬛ Visual Studio  
 <br/>
 <details>
-<summary>🧑🏻‍💻 See my other skills</summary>
+<summary>🧑🏻‍💻 My other skills</summary>
 
 🟩🟨⬛⬛ .NET  
 🟩🟨⬛⬛ Windows Forms  
@@ -46,7 +46,7 @@ DM me on Discord, you can easily find me on the [C# server](https://discord.gg/c
 ## 🎓 My learning progress  
 
 <details>
-<summary>📚 Click here to see my courses history</summary>
+<summary>📚 My courses history</summary>
 
 | finished | tech | course title | platform | remarks |
 |:---:|:---:|:---:|:---:|:---:|
@@ -54,6 +54,7 @@ DM me on Discord, you can easily find me on the [C# server](https://discord.gg/c
 |planned|<img src="icons/dotNet.png" alt=".NET" align="center"/>|Dependency Injection in .NET 8 and ASP.NET Core|<img src="icons/Udemy.png" align="center"/> [Udemy](https://www.udemy.com/course/dependency-injection-in-net-core-2-and-aspnet-core-2/)||
 |in progress|<img src="icons/dotNet.png" alt=".NET" align="center"/>|Debugging and Error Handling in ASP.NET Core Web API|<img src="icons/Psight.png" align="center"/> [Pluralsight](https://www.pluralsight.com/courses/asp-dot-net-core-6-web-api-debugging-error-handling)||
 |in progress|<img src="icons/dotNet.png" alt=".NET" align="center"/>|Dependency Injection in ASP.NET Core 6|<img src="icons/Psight.png" align="center"/> [Pluralsight](https://pluralsight.com/library/courses/dependency-injection-asp-dot-net-core-6)||
+|in progress|<img src="icons/dotNet.png" alt="Microsoft" align="center"/>|Introduction to .NET web development with ASP.NET Core|<img src="icons/Microsoft.png" align="center"/> [Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/introduction-to-aspnet-core/)||
 |2025-11-06|<img src="icons/C_2023.png" alt="C#" align="center"/>|C# Dependency Injection|<img src="icons/Psight.png" align="center"/> [Pluralsight](https://pluralsight.com/library/courses/c-sharp-10-dependency-injection)||
 |2025-05-31|<img src="icons/dotNet.png" alt=".NET" align="center"/>|ASP.NET Core Web API Fundamentals|<img src="icons/Psight.png" align="center"/> [Pluralsight](https://www.pluralsight.com/courses/asp-dot-net-core-6-web-api-fundamentals)||
 |2025-03-28|<img src="icons/dotNet.png" alt=".NET" align="center"/>|From Zero to Hero: REST APIs in .NET|<img src="icons/Dometrain.png" align="center"/> [Dometrain](https://dometrain.com/course/from-zero-to-hero-rest-apis-in-asp-net-core/)|didn't finish|
